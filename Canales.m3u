@@ -1,275 +1,276 @@
+
 #EXTM3U
-#EXTINF:-1 group-title="Música",002 Radio TV (720p)
+#EXTINF:-1 group-title="🎵 Música",002 Radio TV (720p)
 https://cdn.002radio.com:3909/live/radio002live.m3u8
-#EXTINF:-1 group-title="Otros",3ABN Latino
+#EXTINF:-1 group-title="🙏 Religioso",3ABN Latino
 https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Antena TV (1080p)
+#EXTINF:-1 group-title="🏛️ Cultura",Antena TV (1080p)
 https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN Deportes (360p)
+#EXTINF:-1 group-title="⚽ Deportes",ESPN Deportes (360p)
 https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
-#EXTINF:-1 group-title="Deportes",Fox Sports en Espanol (720p)
+#EXTINF:-1 group-title="⚽ Deportes",Fox Sports en Espanol (720p)
 https://livetv-fa.tubi.video/fox-sports-espanol2/index.m3u8
-#EXTINF:-1 group-title="Deportes",Fox Sports Premium (1080p)
+#EXTINF:-1 group-title="⚽ Deportes",Fox Sports Premium (1080p)
 https://live20.bozztv.com/akamaissh101/ssh101/foxsports/playlist.m3u8
-#EXTINF:-1 group-title="Deportes",CDN Deportes (720p)
+#EXTINF:-1 group-title="⚽ Deportes",CDN Deportes (720p)
 http://200.125.170.122:8000/play/a03j/index.m3u8
-#EXTINF:-1 group-title="Deportes",ITV Deportes
+#EXTINF:-1 group-title="⚽ Deportes",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 group-title="Deportes",Pluto TV Deportes (720p)
+#EXTINF:-1 group-title="⚽ Deportes",Pluto TV Deportes (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 group-title="Otros",Alterna TV (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",Alterna TV (720p)
 https://alternatv.ar/stream/hls/live.m3u8
-#EXTINF:-1 group-title="Cine / Series",Aurora Media Films (720p)
+#EXTINF:-1 group-title="🎬 Series y Cine",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-#EXTINF:-1 group-title="Otros",Boreal (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",Boreal (720p)
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
-#EXTINF:-1 group-title="Otros",UCL (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:-1 group-title="Otros",UCSG TV
+#EXTINF:-1 group-title="🎓 Educación",UCSG TV
 https://stream.catomedia.net/catomedia-app/index.m3u8
-#EXTINF:-1 group-title="Otros",UCV TV (720p)
+#EXTINF:-1 group-title="🎓 Educación",UCV TV (720p)
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Otros",UDG TV Canal 44 (720p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Educación",UDG TV Canal 44 (720p) [Not 24/7]
 https://d1sx1b16qowo88.cloudfront.net/out/v1/c278fcc434d1437eb31ff105c6b4a538/index.m3u8
-#EXTINF:-1 group-title="Otros",UEBI TV Online (720p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Educación",UEBI TV Online (720p) [Not 24/7]
 https://cloud2.streaminglivehd.com:1936/uebi/uebi/playlist.m3u8
-#EXTINF:-1 group-title="Otros",UESTV (720p)
+#EXTINF:-1 group-title="🎓 Educación",UESTV (720p)
 https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Ultra TV Puebla (720p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Ultra TV Puebla (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Música",UMTV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🎵 Música",UMTV (1080p) [Not 24/7]
 https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
-#EXTINF:-1 group-title="Otros",UNAH UTV (360p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Educación",UNAH UTV (360p) [Not 24/7]
 https://live-utv.unah.edu.hn/web/salida.m3u8
-#EXTINF:-1 group-title="Otros",UNE TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",UNE TV (720p) [Not 24/7]
 https://amixtv.live:3395/live/unetvlive.m3u8
-#EXTINF:-1 group-title="Otros",Une Vinalopó (576p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Une Vinalopó (576p) [Not 24/7]
 https://streamingtvi.gestec-video.com/hls/unesd.m3u8
-#EXTINF:-1 group-title="Otros",UNIANDES TV (720p)
+#EXTINF:-1 group-title="🎓 Educación",UNIANDES TV (720p)
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
-#EXTINF:-1 group-title="Otros",Única TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Única TV (720p) [Not 24/7]
 https://cdn.streamhispanatv.net:3642/live/unicatvlive.m3u8
-#EXTINF:-1 group-title="Otros",Unife TV
+#EXTINF:-1 group-title="🙏 Religioso",Unife TV
 https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Unife TV
+#EXTINF:-1 group-title="🙏 Religioso",Unife TV
 https://cdn.mycloudstream.io/hls/live/broadcast/ic1frrzz/index.m3u8
-#EXTINF:-1 group-title="Otros",Unifranz (720p)
+#EXTINF:-1 group-title="🎓 Educación",Unifranz (720p)
 https://live.enhdtv.com:8081/8192/index.m3u8
-#EXTINF:-1 group-title="Otros",UnionTV
+#EXTINF:-1 group-title="🏛️ Cultura",UnionTV
 https://tigocloud.desdeparaguay.net/800tv/800tv/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Unison TV (1080p)
+#EXTINF:-1 group-title="🎓 Educación",Unison TV (1080p)
 https://stream.unison.mx/hls/unisontvatem.m3u8
-#EXTINF:-1 group-title="Otros",Unitel
+#EXTINF:-1 group-title="📺 Noticias",Unitel
 https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
-#EXTINF:-1 group-title="Otros",Unitel Santa Cruz
+#EXTINF:-1 group-title="📺 Noticias",Unitel Santa Cruz
 https://master.tucableip.com/tvhome/index.m3u8
-#EXTINF:-1 group-title="Otros",Uniteve (720p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Uniteve (720p) [Not 24/7]
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
-#EXTINF:-1 group-title="Otros",UniTV (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",UniTV (720p)
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Univalle Televisión (1080p)
+#EXTINF:-1 group-title="🎓 Educación",Univalle Televisión (1080p)
 https://master.tucableip.com/univalletv/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Univers TV (720p)
+#EXTINF:-1 group-title="🎓 Educación",Univers TV (720p)
 https://cloud2.streaminglivehd.com:1936/universfaller/universfaller/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🎓 Educación",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
 https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Unsion TV (1080p)
+#EXTINF:-1 group-title="🎓 Educación",Unsion TV (1080p)
 http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
-#EXTINF:-1 group-title="Otros",UPP TV/Bolivisión SCZ (720p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",UPP TV/Bolivisión SCZ (720p) [Not 24/7]
 https://alba-bo-bolivision-upptv.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 group-title="Otros",Uranio TV (Yurimaguas) (720p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Uranio TV (Yurimaguas) (720p) [Not 24/7]
 https://live.obslivestream.com/uraniotv/index.m3u8
-#EXTINF:-1 group-title="Otros",Urbano TV (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",Urbano TV (720p)
 https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8
-#EXTINF:-1 group-title="Otros",USA Network Latin America
+#EXTINF:-1 group-title="🎬 Series y Cine",USA Network Latin America
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
-#EXTINF:-1 group-title="Otros",USMPTV (720p)
+#EXTINF:-1 group-title="🎓 Educación",USMPTV (720p)
 https://streamusmptv.ddns.net/live/stream.m3u8
-#EXTINF:-1 group-title="Otros",UTV (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",UTV (720p)
 https://v2.tustreaming.cl/utv/index.m3u8
-#EXTINF:-1 group-title="Otros",V Classic TV (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",V Classic TV (720p)
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Vale TV (480p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Vale TV (480p) [Not 24/7]
 https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Valle Nuevo TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Valle Nuevo TV (720p) [Not 24/7]
 https://media.streambrothers.com:1936/8262/8262/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Vallenato Internacional (720p) [Not 24/7]
+#EXTINF:-1 group-title="🎵 Música",Vallenato Internacional (720p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Vallevisión (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",Vallevisión (720p)
 https://mediacp.us:8081/vallevision/index.m3u8
-#EXTINF:-1 group-title="Otros",Vallevision Canal 10 (720p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Vallevision Canal 10 (720p) [Not 24/7]
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Vamisa TV (480p)
+#EXTINF:-1 group-title="🏛️ Cultura",Vamisa TV (480p)
 https://inliveserver.com:1936/10044/10044/playlist.m3u8
-#EXTINF:-1 group-title="Otros",VB Media TV (1080p)
+#EXTINF:-1 group-title="🏛️ Cultura",VB Media TV (1080p)
 https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
-#EXTINF:-1 group-title="Otros",VC Online (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",VC Online (720p)
 https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
-#EXTINF:-1 group-title="Otros",VegaTeve (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",VegaTeve (1080p) [Not 24/7]
 https://cloud6.livescast.com:3797/live/vegatevelive.m3u8
-#EXTINF:-1 group-title="Otros",Vegavisión Canal 18 (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",Vegavisión Canal 18 (720p)
 https://rdn.essastream.com:3400/live/canal18hdlive.m3u8
-#EXTINF:-1 group-title="Otros",Venevision (480p)
+#EXTINF:-1 group-title="📺 Noticias",Venevision (480p)
 https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8
-#EXTINF:-1 group-title="Otros",Venevisión Internacional (720p)
+#EXTINF:-1 group-title="📺 Noticias",Venevisión Internacional (720p)
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-#EXTINF:-1 group-title="Otros",Ventdelnord TV (404p)
+#EXTINF:-1 group-title="🏛️ Cultura",Ventdelnord TV (404p)
 http://ventdelnord.tv:8080/hls/directe.m3u8
-#EXTINF:-1 group-title="Otros",Venus Media (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",Venus Media (720p)
 https://rds3gen.desdeparaguay.net/venusmedia/venusmedia/.m3u8
-#EXTINF:-1 group-title="Otros",Veo7 (1080p)
+#EXTINF:-1 group-title="🏛️ Cultura",Veo7 (1080p)
 http://176.65.146.237:8401/play/a09k/index.m3u8
-#EXTINF:-1 group-title="Otros",Vepaco TV (480p)
+#EXTINF:-1 group-title="🏛️ Cultura",Vepaco TV (480p)
 https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
-#EXTINF:-1 group-title="Otros",Veracruz Multimedios TV (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",Veracruz Multimedios TV (720p)
 https://stream.oursnetworktv.com/latin/VeracruZMulTimedios/playlist.m3u8
-#EXTINF:-1 group-title="Otros",VerTV (VTV) (720p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",VerTV (VTV) (720p) [Not 24/7]
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Vevo Reggaeton & Trap
+#EXTINF:-1 group-title="🎵 Música",Vevo Reggaeton & Trap
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce915-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c81eefb9-90f6-4a75-9397-7b98312cde71
-#EXTINF:-1 group-title="Otros",Vía Altomayo (720p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Vía Altomayo (720p) [Not 24/7]
 https://live.obslivestream.com/viaaltomayomux/index.m3u8
-#EXTINF:-1 group-title="Otros",Vía Televisión (720P) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Vía Televisión (720P) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
-#EXTINF:-1 group-title="Otros",Videa Plataforma (576p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Videa Plataforma (576p) [Not 24/7]
 https://stream.oursnetworktv.com/latin/encoder34/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Video Tour Channel (480p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Video Tour Channel (480p) [Not 24/7]
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
-#EXTINF:-1 group-title="Otros",VillaAltagracia TV
+#EXTINF:-1 group-title="🏛️ Cultura",VillaAltagracia TV
 https://inliveserver.com:1936/10016/10016/playlist.m3u8
-#EXTINF:-1 group-title="Música",Vintage Music (720p)
+#EXTINF:-1 group-title="🎵 Música",Vintage Music (720p)
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
-#EXTINF:-1 group-title="Educativo",Vision 3000 [Geo-blocked]
+#EXTINF:-1 group-title="🎓 Educación",Vision 3000 [Geo-blocked]
 https://ss2.tvrdomi.com:1936/vision3000/vision3000/playlist.m3u8
-#EXTINF:-1 group-title="Educativo",Vision Global TV (720p) [Geo-blocked]
+#EXTINF:-1 group-title="🎓 Educación",Vision Global TV (720p) [Geo-blocked]
 https://vdopanel.jlahozconsulting.com:3407/hybrid/play.m3u8
-#EXTINF:-1 group-title="Otros",Visión Latina (1080p)
+#EXTINF:-1 group-title="🏛️ Cultura",Visión Latina (1080p)
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/c1275185f4a8493a85c63390cfc93dad/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Visión Sur TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Visión Sur TV (1080p) [Not 24/7]
 https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Visión Televisión (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",Visión Televisión (720p)
 https://cloudvideo.servers10.com:8081/8016/index.m3u8
-#EXTINF:-1 group-title="Otros",Visión TV (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",Visión TV (720p)
 https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
-#EXTINF:-1 group-title="Otros",VisionNDV TV
+#EXTINF:-1 group-title="🏛️ Cultura",VisionNDV TV
 https://cloudflare.streamgato.us:3820/live/visionndvlive.m3u8
-#EXTINF:-1 group-title="Otros",Viva Murcia TV (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",Viva Murcia TV (720p)
 http://185.36.211.142:8080/tmp_hls/viva/index.m3u8
-#EXTINF:-1 group-title="Otros",Viva TV Canal 30 San Juan de Río Coco [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Viva TV Canal 30 San Juan de Río Coco [Not 24/7]
 https://cdn.amixtv.com/vivatv/index.m3u8
-#EXTINF:-1 group-title="Otros",Viva TV Yurimaguas (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",Viva TV Yurimaguas (720p)
 https://live.obslivestream.com/vivatv/index.m3u8
-#EXTINF:-1 group-title="Otros",Vivamóvil (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",Vivamóvil (720p)
 https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Vive Kanal D Drama (1080p)
+#EXTINF:-1 group-title="🎬 Series y Cine",Vive Kanal D Drama (1080p)
 https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Vive TV Colombia (1080p)
+#EXTINF:-1 group-title="🏛️ Cultura",Vive TV Colombia (1080p)
 http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
-#EXTINF:-1 group-title="Otros",VIVO TV (1080p)
+#EXTINF:-1 group-title="🏛️ Cultura",VIVO TV (1080p)
 https://stream.vivotv.uy/hls/stream.m3u8
-#EXTINF:-1 group-title="Otros",ViX Jajaja (1080p)
+#EXTINF:-1 group-title="🎬 Series y Cine",ViX Jajaja (1080p)
 https://d1f3q72l8uy8ur.cloudfront.net/dist/samsungtv/318/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Otros",ViX Parejas (1080p)
+#EXTINF:-1 group-title="🎬 Series y Cine",ViX Parejas (1080p)
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Otros",VM Latino (720p) [Not 24/7]
+#EXTINF:-1 group-title="🎵 Música",VM Latino (720p) [Not 24/7]
 https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
-#EXTINF:-1 group-title="Otros",VNP
+#EXTINF:-1 group-title="📺 Noticias",VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-#EXTINF:-1 group-title="Música",VoiceOver Radio TV (720p)
+#EXTINF:-1 group-title="🎵 Música",VoiceOver Radio TV (720p)
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
-#EXTINF:-1 group-title="Otros",Vos TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Vos TV (720p) [Not 24/7]
 http://ott.streann.com:8080/loadbalancer/services/public/channels/59e60c4997381ef50d15c041/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Vos y TV (720p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Vos y TV (720p) [Not 24/7]
 https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
-#EXTINF:-1 group-title="Otros",VPItv (1080p)
+#EXTINF:-1 group-title="📺 Noticias",VPItv (1080p)
 https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
-#EXTINF:-1 group-title="Otros",VTV (480p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",VTV (480p) [Not 24/7]
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
-#EXTINF:-1 group-title="Otros",VTV Canal 17 (720p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",VTV Canal 17 (720p) [Not 24/7]
 https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
-#EXTINF:-1 group-title="Otros",VTV Canal 32 (1080p)
+#EXTINF:-1 group-title="🏛️ Cultura",VTV Canal 32 (1080p)
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
-#EXTINF:-1 group-title="Otros",VTV Valle de Aconcagua (720p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",VTV Valle de Aconcagua (720p) [Not 24/7]
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Waldivisión Internacional (480p)
+#EXTINF:-1 group-title="🏛️ Cultura",Waldivisión Internacional (480p)
 https://cloud5.streaminglivehd.com:3114/live/tnnhonduraslive.m3u8
-#EXTINF:-1 group-title="Otros",WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]
+#EXTINF:-1 group-title="🙏 Religioso",WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7]
 https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
-#EXTINF:-1 group-title="Otros",WeatherSpy (720p)
+#EXTINF:-1 group-title="🎥 Documentales",WeatherSpy (720p)
 https://jukin-weatherspy-2-mx.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Otros",WECN (Único TV) (720p)
+#EXTINF:-1 group-title="🙏 Religioso",WECN (Único TV) (720p)
 https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
-#EXTINF:-1 group-title="Otros",Willax TV (720p)
+#EXTINF:-1 group-title="📺 Noticias",Willax TV (720p)
 http://38.183.182.166:8000/play/a0zn/index.m3u8
-#EXTINF:-1 group-title="Educativo",WIPR (1080p) [Geo-blocked]
+#EXTINF:-1 group-title="🎓 Educación",WIPR (1080p) [Geo-blocked]
 https://streannliveprtv.cachefly.net/prtv1/prtv1/playlist.m3u8
-#EXTINF:-1 group-title="Otros",WKAQ-DT1 (Telemundo PR) (1080p)
+#EXTINF:-1 group-title="📺 Noticias",WKAQ-DT1 (Telemundo PR) (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="Otros",WKAQ-DT2 (Punto 2) (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",WKAQ-DT2 (Punto 2) (720p)
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master.m3u8
-#EXTINF:-1 group-title="Otros",WorlVybz TV (360p)
+#EXTINF:-1 group-title="🏛️ Cultura",WorlVybz TV (360p)
 https://tv.wowzahosting.com:3292/stream/play.m3u8
-#EXTINF:-1 group-title="Otros",WOW TV (576p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",WOW TV (576p) [Not 24/7]
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Otros",WRUA-DT1 (Tiva TV) (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",WRUA-DT1 (Tiva TV) (720p)
 https://fl496518-exthls-p1.flovp.com/fl496518/live/live.m3u8
-#EXTINF:-1 group-title="Otros",WTMO-CD1
+#EXTINF:-1 group-title="🏛️ Cultura",WTMO-CD1
 https://dvrfl03.bozztv.com/hondu-telexitos/index.m3u8
-#EXTINF:-1 group-title="Otros",WTV Canal 20 (1080p)
+#EXTINF:-1 group-title="🏛️ Cultura",WTV Canal 20 (1080p)
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Wuan+
+#EXTINF:-1 group-title="🏛️ Cultura",Wuan+
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8
-#EXTINF:-1 group-title="Otros",WWXY-DT1 (Boricua TV) (1080p)
+#EXTINF:-1 group-title="🏛️ Cultura",WWXY-DT1 (Boricua TV) (1080p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201284-1347630/playlist.m3u8
-#EXTINF:-1 group-title="Música",WWXY-DT3 (Maranatha Radio Ministries) (720p) [Not 24/7]
+#EXTINF:-1 group-title="🙏 Religioso",WWXY-DT3 (Maranatha Radio Ministries) (720p) [Not 24/7]
 https://vip.livecastnet.com:3930/live/maranatharadiolive.m3u8
-#EXTINF:-1 group-title="Otros",WXWZ-LD1 (MásTV Canal 23) (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",WXWZ-LD1 (MásTV Canal 23) (720p)
 https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8
-#EXTINF:-1 group-title="Otros",WZNT (Zeta 93) (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🎵 Música",WZNT (Zeta 93) (1080p) [Not 24/7]
 https://livestream.lamusica.com/nacionz/ngrp:nacionz_all/playlist.m3u8
-#EXTINF:-1 group-title="Otros",X Level Media (1080p)
+#EXTINF:-1 group-title="🏛️ Cultura",X Level Media (1080p)
 https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
-#EXTINF:-1 group-title="Otros",XHKG TV Nayarit (1080p)
+#EXTINF:-1 group-title="🏛️ Cultura",XHKG TV Nayarit (1080p)
 https://stream.oursnetworktv.com/latin/encoder73/playlist.m3u8
-#EXTINF:-1 group-title="Música",Xpresso Joven Radio (720p)
+#EXTINF:-1 group-title="🎵 Música",Xpresso Joven Radio (720p)
 https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Xti Network (288p)
+#EXTINF:-1 group-title="🙏 Religioso",Xti Network (288p)
 https://stream8.mexiserver.com:1936/xtinetwork/xtinetwork/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Xtra Tv [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Xtra Tv [Not 24/7]
 https://cnn.essastream.com:3387/live/xtratvlive.m3u8
-#EXTINF:-1 group-title="Educativo",Xtremo Channel (720p) [Geo-blocked]
+#EXTINF:-1 group-title="🎓 Educación",Xtremo Channel (720p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
-#EXTINF:-1 group-title="Otros",YouDotGov
+#EXTINF:-1 group-title="🏛️ Cultura",YouDotGov
 https://reflect-communitytv.cablecast.tv/live-3/live/stream-1/live.m3u8
-#EXTINF:-1 group-title="Otros",Yuma77
+#EXTINF:-1 group-title="🏛️ Cultura",Yuma77
 https://securestream10.champds.com/LIVE/YumaCoAZLIVE/YumaCoAZLIVE.m3u8
-#EXTINF:-1 group-title="Otros",Yuma AZ CH 72
+#EXTINF:-1 group-title="🏛️ Cultura",Yuma AZ CH 72
 https://livestream.telvue.com/yumaaz1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Yuma AZ CH 73
+#EXTINF:-1 group-title="🏛️ Cultura",Yuma AZ CH 73
 https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Yunavisión (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",Yunavisión (720p)
 https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
-#EXTINF:-1 group-title="Otros",Zaracay TV (1080p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Zaracay TV (1080p) [Not 24/7]
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
-#EXTINF:-1 group-title="Otros",ZAZ
+#EXTINF:-1 group-title="🎬 Series y Cine",ZAZ
 https://cloud.fastchannel.es/mic/manifiest/hls/zaztv/zaztv.m3u8
-#EXTINF:-1 group-title="Otros",Zinc Nombre TV [Not 24/7]
-https://5790d294af2dc.streamlock.net/zincnombreradiotv24@gmail.com/zincnombreradiotv24@gmail.com/playlist.m3u8
-#EXTINF:-1 group-title="Otros",ZOE Visión TV (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",Zinc Nombre TV [Not 24/7]
+https://5790d294af2dc.streamlock.net/zincnombreradiotv24@gmail.com/zincnombreradiotv24@gmail.m3u8
+#EXTINF:-1 group-title="🙏 Religioso",ZOE Visión TV (720p)
 https://live.zoevisiontv.com:3475/live/zoevisiontvlive.m3u8
-#EXTINF:-1 group-title="Otros",Zol106 (720p) [Not 24/7]
+#EXTINF:-1 group-title="🎵 Música",Zol106 (720p) [Not 24/7]
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
-#EXTINF:-1 group-title="Música",Zona Music TV (1080p)
+#EXTINF:-1 group-title="🎵 Música",Zona Music TV (1080p)
 https://acceso.radiosportstv.online:3022/stream/play.m3u8
-#EXTINF:-1 group-title="Otros",Zonavision TV [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",Zonavision TV [Not 24/7]
 https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
-#EXTINF:-1 group-title="Deportes",Zoy TV Sports 1 (1080p) [Not 24/7]
+#EXTINF:-1 group-title="⚽ Deportes",Zoy TV Sports 1 (1080p) [Not 24/7]
 https://mio.zoymilton.com/ZoyEventos/index.m3u8
-#EXTINF:-1 group-title="Otros",Zoy TV Turcas (720p)
+#EXTINF:-1 group-title="🎬 Series y Cine",Zoy TV Turcas (720p)
 https://mio.zoymilton.com/ZoyTurcas/index.m3u8
-#EXTINF:-1 group-title="Otros",ZoyTV Plus (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",ZoyTV Plus (720p)
 https://mio.zoymilton.com/ZoyPlus/index.m3u8
-#EXTINF:-1 group-title="Otros",ZTV (720p) [Not 24/7]
+#EXTINF:-1 group-title="🏛️ Cultura",ZTV (720p) [Not 24/7]
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
-#EXTINF:-1 group-title="Otros",Zurquí TV (720p)
+#EXTINF:-1 group-title="🏛️ Cultura",Zurquí TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
