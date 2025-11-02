@@ -1,0 +1,89 @@
+#EXTM3U 
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",+ Listas en M3U.CL ✪
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🎵 Música; Colombia",Estacion Retro ✪
+https://ssh101.bozztv.com/ssh101/canalonline/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Cali TV
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Canal 12 Valledupar
+https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmaBpKu1K3lYAAAA/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Canal Capital
+https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C021/021/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Canal CNC Medellin
+https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Canal CNC Pasto
+http://pastocnc1.ddns.net/pastocnc9/cnc9/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Canal Doce Sincelejo
+http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Canal Trece
+https://liveingesta118.cdnmedia.tv/trecetvlive/smil:rtmp01.smil/playlist.m3u8?DVR&PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Canal TRO
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Canal Visión Dorada
+https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Caracol
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Cosmovisión
+https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",CTV
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🎵 Música; Colombia",Melody Channel TV
+https://melodychanneltv.moxapps.shop/live/GHkktiwlTkRa57Extm5Vl5Z6fC02/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Suram
+https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",TDI
+https://play.amelbasoluciones.co:19360/tdicolombia/tdicolombia.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Tele Islas
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Telecafe
+https://liveingesta118.cdnmedia.tv/telecafelive/smil:rtmp01.smil/playlist.m3u8?DVR&PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Telemedellin
+https://liveingesta118.cdnmedia.tv//telemedellintvlive/smil:dvrlive.smil/playlist.m3u8?DVR&PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Telepacífico
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Zoom TV
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Canal Capital
+https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🎵 Música; Colombia",Amordiscos TV
+https://amordiscosretrotv.moxapps.shop/live/cdYgaZmmh2VPhscWTxBp1kd9Egb2/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🎵 Música; Colombia",Telemusica
+https://telemusicahit.moxapps.shop/live/bu1rJpIiHrcRa4T1e972hnMExiw1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🙏 Religioso; Colombia",Tele Familia
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🙏 Religioso; Colombia",TV Gracia
+https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🎵 Música; CL",Recuerdos Retro Radio TV
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🎵 Música; CL",Retro Plus TV
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🎵 Música; CL",Retro Plus TV Señal 2
+https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🎵 Música; CL",Retro Plus TV Señal 3
+https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Tele Pasto
+https://hvtraficonew.ddns.net/telepasto/telepasto.stream/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",TV Peñol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Oasis TV
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🙏 Religioso; Colombia",Cristovision
+https://liveingesta118.cdnmedia.tv/cristovisiontvlive/smil:rtmp01.smil/playlist.m3u8?DVR&PlaylistM3UCL
+#EXTINF:-1 group-title="🎵 Música; Colombia",Buenisima Radio TV
+https://stream.mediaserver.com.co:8088/live/buenisimatv.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🎵 Música; CL",Mundo de la Musica TV
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="📺 Noticias; Colombia",Noticiero 90 Minutos
+https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/026/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🏛️ Cultura; Colombia",Veo TV
+https://movil.ejeserver.com/live/veotv.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🎵 Música; US",Salsagorda Television
+https://www.televinterserver.com:19360/salsagordatv/salsagordatv.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🙏 Religioso; Colombia",Teleamiga
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="🙏 Religioso; Colombia",Teleamiga
+https://liveingesta118.cdnmedia.tv/teleamigatvlive/smil:dvrlive.smil/playlist.m3u8?PlaylistM3UCL
