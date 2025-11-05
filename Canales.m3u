@@ -290,7 +290,6 @@ https://mio.zoymilton.com/ZoyPlus/index.m3u8
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr@SD" tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="Cultura",Zurquí TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
-#EXTM3U 
 #EXTINF:-1 group-title="🏛️ Cultura; Colombia",+ Listas en M3U.CL ✪
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="🎵 Música; Colombia",Estacion Retro ✪
