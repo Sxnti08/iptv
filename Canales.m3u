@@ -290,3 +290,5 @@ https://mio.zoymilton.com/ZoyPlus/index.m3u8
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr@SD" tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="Cultura",Zurquí TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title="COLOMBIA", Win+
+https://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index.m3u8
