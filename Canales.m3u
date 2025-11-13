@@ -24,11 +24,21 @@ https://alternatv.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-id="AuroraMediaFilms.gt@SD" tvg-logo="https://i.imgur.com/DVC5w6H.png" group-title="Entretenimiento",Aurora Media Films (720p)
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
 #EXTINF:-1 tvg-logo="https://logospng.org/download/disney-junior/disney-junior-4096.png" group-title="Entretenimiento", DISNEY JUNIOR 
-http://38.183.182.166:8000/play/a0j9/index.m3u8
+http://cord-cutter.net:8080/eman_allen71@yahoo.com/eman_allen71@2024/57349
 #EXTINF:-1 tvg-id="DisneyChannelLatinAmerica" tvg-logo="https://pbs.twimg.com/profile_images/1740338476736815104/vJGKgOJe_400x400.jpg" group-title="Entretenimiento",Disney Channel
 http://201.230.121.186:8000/play/a0fb/index.m3u8
 #EXTINF:-1 tvg-id="NickenEspanol" tvg-logo="https://i.imgur.com/G1J4IsT.png" group-title="Entretenimiento",Nickelodeon
-"http://181.78.4.250:8098/play/a03t/index.m3u8"
+http://cord-cutter.net:8080/eman_allen71@yahoo.com/eman_allen71@2024/47349
+#EXTINF:-1 tvg-logo=https:"//logo-marque.com/wp-content/uploads/2020/09/National-Geographic-Logo-2016-present.png" group-title="Cultura",National Geographics
+http://cord-cutter.net:8080/eman_allen71@yahoo.com/eman_allen71@2024/57281
+#EXTINF:-1 tvg-logo=https:"//logo-marque.com/wp-content/uploads/2020/09/National-Geographic-Logo-2016-present.png" group-title="Cultura",National Geographic  HD
+http://cord-cutter.net:8080/eman_allen71@yahoo.com/eman_allen71@2024/47338
+#EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Nat-Geo-Wild-Logo-1.png" group-title="Cultura",National Geographic Wild (R)
+http://cord-cutter.net:8080/eman_allen71@yahoo.com/eman_allen71@2024/57450
+#EXTINF:-1 tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Nat-Geo-Wild-Logo-1.png" group-title="Cultura",National Geographic Wild 
+http://cord-cutter.net:8080/eman_allen71@yahoo.com/eman_allen71@2024/57280
+#EXTINF:-1 tvg-logo=https:"//logo-marque.com/wp-content/uploads/2020/09/National-Geographic-Logo-2016-present.png" group-title="Cultura",NATIONAL GEOGRAPHIC
+http://cord-cutter.net:8080/eman_allen71@yahoo.com/eman_allen71@2024/47339
 #EXTINF:-1 tvg-id="Naruto" tvg-logo="https://pngimg.com/d/naruto_PNG48.png" group-title="Anime", Naruto
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a29f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bbd39836-427d-4099-82bb-28b34f88aa35
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
